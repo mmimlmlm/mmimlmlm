@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @matidatalab
+👋 Hi, I’m @mmimlmlm
 
 👀 I’m interested in data science, AI applications, and solving real-world problems through technology.
 
