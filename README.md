@@ -1,15 +1,38 @@
+<h1 align="center">✨ Hola, soy <b>@mmimlmlm</b> ✨</h1>
 
-👋 Hi, I’m @mmimlmlm
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-💡-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Applications-🤖-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-🌍-green?style=for-the-badge" />
+</p>
 
-👀 I’m interested in data science, AI applications, and solving real-world problems through technology.
+---
 
-🌱 I’m currently learning advanced data visualization techniques and machine learning algorithms.
+## 🚀 Sobre mí
+Soy un apasionado de la **ciencia de datos** y la **inteligencia artificial**, convencido de que la tecnología puede transformar problemas reales en soluciones innovadoras.  
 
-💞️ I’m looking to collaborate on open-source projects related to data analysis or AI-driven tools.
+- 👀 Intereses: IA aplicada, visualización avanzada, optimización de procesos  
+- 🌱 Aprendizaje actual: algoritmos de machine learning y técnicas de visualización  
+- 🤝 Colaboraciones: proyectos open-source de análisis de datos e IA  
+- 📫 Contacto: **matiaslagunasl@outlook.com**
 
-📫 How to reach me: Feel free to connect with me via GitHub or email at matiaslagunasl@outlook.com.
+---
 
-<!---
-matidatalab/matidatalab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 Estadísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmimlmlm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmimlmlm&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmimlmlm&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+## 🎨 Extra
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mmimlmlm&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
+
+---
+
+<h3 align="center">✨ ¡Construyamos juntos el futuro con datos e inteligencia artificial! ✨</h3>
+
